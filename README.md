@@ -88,5 +88,5 @@ Tracker de combate para mestres de RPG, gratuito e open-source. Feito com Next.j
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriell-franca&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=gabriell-franca&theme=dark&hide_border=true" />
 </p>
